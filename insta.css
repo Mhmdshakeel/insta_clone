@@ -1,0 +1,48 @@
+.image1{
+    width: 400px;
+    margin-left: 280px;
+    margin-bottom: 20px;
+}
+
+.p-dec{
+    display: inline;
+}
+
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 280px;
+    height: 40px;
+    width: 400px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0096ff;
+    color: white;
+}
+
+.p-dec2{
+   margin-left: 280px;
+    color: lightgrey;
+    margin-bottom: 20px;
+
+}
+
+input{
+   width: 400px;
+   margin-left: 280px;
+   height:30px;
+   margin-top: 10px;
+   border: 0.5px solid darkgray;
+   border-radius: 5px;
+   background-color: whitesmoke;
+}
+
+a{
+    margin-left: 580px;
+    color: #0096ff;
+}
+
+#btn2{
+    opacity: 0.3;
+}
